@@ -16,7 +16,7 @@ function nameToAttributes(names) {
     let lName = name.split(" ")[1]
       return {firstName: fName, lastName: lName}
   })
-  
+  // [{firstName: "Bobby", lastName: "smith"}, {firstName: "Sammy", lastName: "Watkins"}]
 }
 
 function attributesToPhrase(drivers) {
@@ -28,5 +28,5 @@ function attributesToPhrase(drivers) {
   
   
   
-  // [{firstName: "Bobby", lastName: "smith"}, {firstName: "Sammy", lastName: "Watkins"}]
+  
   
