@@ -16,5 +16,5 @@ function nameToAttributes(names) {
   
   
   
-  // [{firstName: "Bobby", lastName: "smith"}, {]
+  // [{firstName: "Bobby", lastName: "smith"}, {firstName: "Sammy", lastName: "Watkins"}]
 }
