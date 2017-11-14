@@ -17,13 +17,13 @@ function nameToAttributes(names) {
       return {firstName: fName, lastName: lName}
   })
 
-function attributesToPhrase(names) {
+function attributesToPhrase(drivers) {
  return names.
 }
   
   
   
   
-  
   // [{firstName: "Bobby", lastName: "smith"}, {firstName: "Sammy", lastName: "Watkins"}]
+  
 }
