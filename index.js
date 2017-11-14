@@ -28,4 +28,3 @@ function attributesToPhrase(drivers) {
   
   // [{firstName: "Bobby", lastName: "smith"}, {firstName: "Sammy", lastName: "Watkins"}]
   
-}
