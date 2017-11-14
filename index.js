@@ -17,6 +17,9 @@ function nameToAttributes(names) {
       return {firstName: fName, lastName: lName}
   })
 
+function attributesToPhrase(names) {
+  
+}
   
   
   
