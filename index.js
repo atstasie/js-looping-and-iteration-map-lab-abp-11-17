@@ -18,7 +18,7 @@ function nameToAttributes(names) {
   })
 
 function attributesToPhrase(names) {
- 
+ return names.
 }
   
   
