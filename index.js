@@ -10,7 +10,10 @@ function lowerCaseDrivers(array) {
 
 function nameToAttributes(names) {
   // names = ['Bobby Smith', 'Sammy Watkins']
-  
+  name.map(function(name) {
+    //name "Bobby Smith"
+    let fName = name.split
+  }
   
   
   
