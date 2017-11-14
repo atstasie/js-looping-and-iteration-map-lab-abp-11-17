@@ -18,7 +18,7 @@ function nameToAttributes(names) {
   })
 
 function attributesToPhrase(drivers) {
- return names.
+ return drivers.map(function ())
 }
   
   
