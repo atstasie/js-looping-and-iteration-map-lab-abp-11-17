@@ -6,6 +6,9 @@ function lowerCaseDrivers(array) {
   
 }
 
-function nameToAttributes(array) {
+// {firstName: 'Bobby', lastName: 'Smith'  }
+
+function nameToAttributes(names) {
+  // names = ['Bobby Smith', 'Sammy Watkins']
   
 }
